@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Product from './components/Product';
 import styled from 'styled-components';
 import './App.css';
@@ -13,12 +14,12 @@ b
 
 const Filtro = styled.div`
 border: solid 1px black;
-`
+`;
 
 
 const Carrinho = styled.div`
 border: solid 1px black;
-`
+`;
 
 
 class App extends React.Component {
@@ -32,9 +33,34 @@ class App extends React.Component {
       </AppContainer>
 
 
-    );
+    )
   }
-}
+};
 
+// Imports Components
+import Filtro from "./components/Filtro";
+//----------------------------------------------------------------
+
+// Styled-Components GlobalStyles
+import GlobalStyle from "./styles/Global";
+//----------------------------------------------------------------
+class App extends React.Component {
+
+  render() {
+
+        return (
+
+          <>
+
+            <div>
+                <Filtro />
+            </div>
+
+            <GlobalStyle />
+          </>
+    )
+  }
+};
+// >>>>>>> master
 
 export default App;
