@@ -1,0 +1,27 @@
+[
+   {
+      "id": "011218b4-ac07-4d69-92c9-a27976481138",
+      "title": "Foguete 1",
+      "price": 8000,
+      "photo": "https://picsum.photos/200/200?a=1"
+   },
+   {
+      "id": "01a314a5-3a47-4367-b3e5-25318feb655a",
+      "title": "Foguete 2",
+      "price": 2000,
+      "photo": "https://picsum.photos/200/200?a=2"
+   },
+   {
+      "id": "0483c382-9f23-4da5-9cd4-47716f423a2a",
+      "title": "Foguete 3",
+      "price": 50,
+      "photo": "https://picsum.photos/200/200?a=3"
+   },
+   {
+      "id": "06b6dbde-c937-4458-8503-ab23f23e2615",
+      "title": "Foguete 4",
+      "price": 80,
+      "photo": "https://picsum.photos/200/200?a=4"
+   }
+
+]
