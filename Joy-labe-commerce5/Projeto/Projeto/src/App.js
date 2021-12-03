@@ -4,11 +4,7 @@ import { Header } from "./components/Header";
 import { Card } from "./components/Card";
 import { ListContainer } from "./style";
 import { Filters } from "./components/Filters";
-import styled from "styled-components"
-
-// const Body = styled.body`
-// background-image: url("https://www.coladaweb.com/wp-content/uploads/2020/12/20201202-foguete.png");
-// `
+import { Footer } from "./components/Footer";
 
 
 export class App extends Component {
@@ -22,7 +18,6 @@ export class App extends Component {
       pedido: 1,
       carrinho: []
    }
-
 
    atualizarBusca = (ev) => {
       this.setState({
@@ -50,6 +45,7 @@ export class App extends Component {
 
    render() {
       return <>
+
          <Header />
 
          <Filters
@@ -83,7 +79,7 @@ export class App extends Component {
                })}
 
          </ListContainer>
-
+         <Footer />
 
       </>
 
