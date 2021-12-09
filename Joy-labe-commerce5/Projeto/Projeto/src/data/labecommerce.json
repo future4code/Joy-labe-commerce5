@@ -1,0 +1,27 @@
+[
+   {
+      "id": "011218b4-ac07-4d69-92c9-a27976481138",
+      "title": "Foguete 1",
+      "price": 8000,
+      "photo": "https://media.spreadthesign.com/image/200/1736.jpg"
+   },
+   {
+      "id": "01a314a5-3a47-4367-b3e5-25318feb655a",
+      "title": "Foguete 2",
+      "price": 2000,
+      "photo": "https://i.pinimg.com/236x/2f/1a/63/2f1a630a10ceb91baaaf2c01244f1e71--retro-rocket-d-max.jpg"
+   },
+   {
+      "id": "0483c382-9f23-4da5-9cd4-47716f423a2a",
+      "title": "Foguete 3",
+      "price": 50,
+      "photo": "https://static.vecteezy.com/ti/vetor-gratis/t2/3133435-nave-espacial-e-foguete-vetor.jpg"
+   },
+   {
+      "id": "06b6dbde-c937-4458-8503-ab23f23e2615",
+      "title": "Foguete 4",
+      "price": 80,
+      "photo": "https://cdna.artstation.com/p/assets/images/images/034/890/746/micro_square/debora-bertoldo-debora-bertoldo-foguete.jpg?1613516132"
+   }
+
+]
